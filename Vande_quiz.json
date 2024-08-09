@@ -1,0 +1,135 @@
+{
+    "Questions": [
+      {
+        "Question": "Hvad står C# for?",
+        "AnswerOptions": [
+          "C Sharp",
+          "C Hash",
+          "C Plus Plus"
+        ],
+        "CorrectAnswer": 2,
+        "CorrectAnswerMessage": [
+          "C# udtales som 'C Sharp'. Det er et programmeringssprog udviklet af Microsoft.",
+          "Det er et sprog designet til at være enkelt, moderne og objektorienteret."
+        ]
+      },
+      {
+        "Question": "Hvad bruges 'using' nøgleordet til i C#?",
+        "AnswerOptions": [
+          "At importere namespaces",
+          "At deklarere variabler",
+          "At definere metoder"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "'using' bruges til at importere namespaces og til at gøre kode lettere at læse.",
+          "Det gør det muligt at bruge klasser og metoder fra et namespace uden at skulle specificere hele navnet hver gang."
+        ]
+      },
+      {
+        "Question": "Hvordan deklarerer du en variabel af typen 'int' i C#?",
+        "AnswerOptions": [
+          "int myVar;",
+          "integer myVar;",
+          "int myVar = 0;"
+        ],
+        "CorrectAnswer": 2,
+        "CorrectAnswerMessage": [
+          "Variabler af typen 'int' kan deklareres som 'int myVar = 0;' i C#.",
+          "Dette sætter en integer-variabel til 0 ved deklareringen."
+        ]
+      },
+      {
+        "Question": "Hvilken metode bruges til at læse input fra konsollen i C#?",
+        "AnswerOptions": [
+          "Console.ReadInput()",
+          "Console.ReadLine()",
+          "Console.GetInput()"
+        ],
+        "CorrectAnswer": 1,
+        "CorrectAnswerMessage": [
+          "Console.ReadLine() bruges til at læse en hel linje af tekst input fra brugeren.",
+          "Denne metode returnerer en streng."
+        ]
+      },
+      {
+        "Question": "Hvordan erklærer du en metode, der ikke returnerer noget i C#?",
+        "AnswerOptions": [
+          "void MyMethod()",
+          "public MyMethod()",
+          "MyMethod()"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "En metode der ikke returnerer noget erklæres med nøgleordet 'void'.",
+          "Eksempel: 'void MyMethod()'."
+        ]
+      },
+      {
+        "Question": "Hvordan laver du en betingelse i C#?",
+        "AnswerOptions": [
+          "if (condition) { }",
+          "condition ? { }",
+          "switch (condition) { }"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "Betingelser laves med 'if (condition) { }' i C#.",
+          "Dette tillader dig at køre kode baseret på om betingelsen er sand eller falsk."
+        ]
+      },
+      {
+        "Question": "Hvordan definerer du en klasse i C#?",
+        "AnswerOptions": [
+          "class MyClass { }",
+          "define class MyClass { }",
+          "class MyClass[] { }"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "Klasser defineres med 'class MyClass { }' i C#.",
+          "Dette skaber en ny klasse med navnet MyClass."
+        ]
+      },
+      {
+        "Question": "Hvad er 'Inheritance' i C#?",
+        "AnswerOptions": [
+          "At en klasse arver fra en anden klasse",
+          "At en klasse implementerer et interface",
+          "At en metode er statisk"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "'Inheritance' (arv) i C# betyder, at en klasse kan arve medlemmer (metoder og egenskaber) fra en anden klasse.",
+          "Dette tillader genbrug af kode og skaber en hierarkisk struktur."
+        ]
+      },
+      {
+        "Question": "Hvilket nøgleord bruges til at erklære en konstant værdi i C#?",
+        "AnswerOptions": [
+          "const",
+          "static",
+          "readonly"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "Nøgleordet 'const' bruges til at erklære en konstant værdi, der ikke kan ændres efter initialisering.",
+          "Eksempel: 'const int myConst = 10;'."
+        ]
+      },
+      {
+        "Question": "Hvordan fanger du undtagelser i C#?",
+        "AnswerOptions": [
+          "try-catch",
+          "catch-finally",
+          "throw-catch"
+        ],
+        "CorrectAnswer": 0,
+        "CorrectAnswerMessage": [
+          "Undtagelser fanges i C# med 'try-catch' blokker.",
+          "Dette gør det muligt at håndtere fejl uden at programmet crasher."
+        ]
+      }
+    ]
+  }
+  
