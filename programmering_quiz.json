@@ -1,0 +1,135 @@
+{
+  "Questions": [
+    {
+      "Question": "Hvad er den korrekte datatype for en hel talværdi i C#?",
+      "AnswerOptions": [
+        "int",
+        "string",
+        "double"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "Den korrekte datatype for en hel talværdi i C# er 'int'.",
+        "En 'int' kan holde værdier fra -2.147.483.648 til 2.147.483.647."
+      ]
+    },
+    {
+      "Question": "Hvordan deklareres en metode i C#?",
+      "AnswerOptions": [
+        "public void MethodName()",
+        "void public MethodName()",
+        "MethodName() void public"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "En metode i C# deklareres som 'public void MethodName()'.",
+        "Her er 'public' adgangsmodifikatoren, 'void' returtypen, og 'MethodName' er metodens navn."
+      ]
+    },
+    {
+      "Question": "Hvad er en korrekt måde at oprette en instans af en klasse på?",
+      "AnswerOptions": [
+        "ClassName obj = new ClassName();",
+        "ClassName obj = ClassName();",
+        "new ClassName obj = ClassName();"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "En korrekt måde at oprette en instans af en klasse på er 'ClassName obj = new ClassName();'.",
+        "Dette skaber et nyt objekt af typen 'ClassName'."
+      ]
+    },
+    {
+      "Question": "Hvordan skriver man en kommentar i C#?",
+      "AnswerOptions": [
+        "// Dette er en kommentar",
+        "# Dette er en kommentar",
+        "<!-- Dette er en kommentar -->"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "I C# skriver man en kommentar med '//' for en enlinjes kommentar.",
+        "En kommentar ignoreres af compileren og bruges til at dokumentere kode."
+      ]
+    },
+    {
+      "Question": "Hvilket keyword bruges til at lave arv i C#?",
+      "AnswerOptions": [
+        "base",
+        "inherit",
+        "extends"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "I C# bruges 'base' til at referere til basisklassen.",
+        "Arv defineres i C# ved at bruge ':' operatoren efter klassenavnet."
+      ]
+    },
+    {
+      "Question": "Hvordan definerer man en konstant i C#?",
+      "AnswerOptions": [
+        "const int x = 10;",
+        "int const x = 10;",
+        "final int x = 10;"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "En konstant i C# defineres med 'const', efterfulgt af datatype og værdi.",
+        "For eksempel: 'const int x = 10;'."
+      ]
+    },
+    {
+      "Question": "Hvad bruges 'using' keywordet til i C#?",
+      "AnswerOptions": [
+        "Til at inkludere navnerum",
+        "Til at definere en ny metode",
+        "Til at oprette en ny klasse"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "'using' keywordet bruges til at inkludere navnerum.",
+        "Det gør det muligt at bruge typer fra andre navnerum uden at angive det fulde navn."
+      ]
+    },
+    {
+      "Question": "Hvad er forskellen mellem 'ref' og 'out' parametre i C#?",
+      "AnswerOptions": [
+        "Begge kræver initialisering før brug, men 'ref' kræver det før metoden kaldes.",
+        "'out' kræver ikke initialisering før metoden kaldes, men 'ref' gør.",
+        "Der er ingen forskel mellem 'ref' og 'out'."
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "'ref' og 'out' parametre bruges til at returnere værdier fra en metode.",
+        "'ref' kræver, at variablen er initialiseret før metoden kaldes, mens 'out' ikke gør det."
+      ]
+    },
+    {
+      "Question": "Hvordan håndterer man undtagelser i C#?",
+      "AnswerOptions": [
+        "Ved hjælp af try-catch blokke",
+        "Ved hjælp af if-else betingelser",
+        "Ved hjælp af switch-case blokke"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "Undtagelser håndteres i C# ved hjælp af 'try-catch' blokke.",
+        "Koden i 'try' blokken køres, og hvis en undtagelse opstår, fanges den i 'catch' blokken."
+      ]
+    },
+    {
+      "Question": "Hvordan definerer man en metode med en returtype i C#?",
+      "AnswerOptions": [
+        "public int MethodName()",
+        "public void MethodName()",
+        "int MethodName public()"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "En metode med en returtype defineres som 'public int MethodName()'.",
+        "'int' er retur"
+   ]
+      }
+    ]
+  }
+  
