@@ -27,7 +27,7 @@ Dette program er designet til at hente quizspørgsmål fra JSON-filer og give br
    dotnet run
 ```
 
-### 🛠️ Metoder
+### 🧩 Metoder
 ## 🔄 Genstart Programmet
 - Denne metode giver brugeren mulighed for at vælge at genstarte quizzen eller afslutte programmet.
 Programmet viser en besked, hvor brugeren kan trykke på R for at genstarte eller Q for at afslutte.
