@@ -5,12 +5,12 @@
 ## 📜 Indhold
 
 1. [📖 Introduktion](#introduktion)
-2. [🚀 Sådan kører du programmet](#sådan-kører-du-programmet)
+2. [🚀 Sådan kører du programmet](##sådan-kører-du-programmet)
 3. [🧩 Metoder](#metoder)
-   - [🔄 Genstart Programmet](#-genstart-programmet)
-   - [📂 LoadQuizFromFile](LoadQuizFromFile)
-   - [❓ RunQuiz](#-runquiz)
-   - [🗒️ ShowMenu](#-showmenu)
+   - [🔄 Genstart Programmet](##-genstart-programmet)
+   - [📂 LoadQuizFromFile](##-LoadQuizFromFile)
+   - [❓ RunQuiz](##-runquiz)
+   - [🗒️ ShowMenu](##-showmenu)
 
 ## 📝 Introduktion
 
@@ -23,7 +23,11 @@ Dette program er designet til at hente quizspørgsmål fra JSON-filer og give br
 3. Naviger til projektmappen i din terminal.
 4. Kør programmet med følgende kommando:
 
- 🛠️ Metoder
+  ```bash
+   dotnet run
+```
+
+### 🛠️ Metoder
 ## 🔄 Genstart Programmet
 - Denne metode giver brugeren mulighed for at vælge at genstarte quizzen eller afslutte programmet.
 Programmet viser en besked, hvor brugeren kan trykke på R for at genstarte eller Q for at afslutte.
