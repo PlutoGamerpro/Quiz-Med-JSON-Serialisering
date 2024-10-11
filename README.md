@@ -106,5 +106,7 @@ private static void ShowMenu()
 
 
 ```
+## 🙌 Tak for din tid!
 
+Jeg håber, du fandt denne gennemgang nyttig! Hvis du er interesseret i at se flere af mine projekter, kan du tjekke dem ud [here](https://github.com/PlutoGamerpro?tab=stars).
 
