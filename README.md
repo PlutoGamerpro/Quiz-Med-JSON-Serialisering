@@ -1,6 +1,6 @@
 # Quiz Med JSON Serialisering
 
-🎉 Velkommen til Quiz Med JSON Serialisering! Dette program giver brugerne mulighed for at deltage i forskellige quizzer baseret på JSON-data.
+🎉 Velkommen til Quiz Med JSON Serialisering! Dette program giver brugerne mulighed for at deltage i forskellige quizzer baseret på JSON-data❓💡.
 
 ## 📜 Indhold
 
