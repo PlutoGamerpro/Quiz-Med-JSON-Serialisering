@@ -2,6 +2,15 @@
 
 🎉 Velkommen til Quiz Med JSON Serialisering! Dette program giver brugerne mulighed for at deltage i forskellige quizzer baseret på JSON-data❓💡.
 
+
+### Explanation
+
+- **`bin/Debug/netX.X/Debug/net7.0/data/`**: This is where your JSON data files are stored.
+- **`Models/`**: Contains your model classes and files.
+- **`Program/`**: Contains your main program files.
+- **`Solution/`**: Contains your solution and project files.
+- **`README.md`**: This file.
+
 ## 📜 Indhold
 
 1. 📖 Introduktion
