@@ -5,7 +5,7 @@
 
 ### Explanation
 
-- **`data/`**: This is where your JSON data files are stored.
+- **`bin/Debug/netX.X/Debug/net7.0/data/`**: This is where your JSON data files are stored.
 - **`Models/`**: Contains your model classes and files.
 - **`Program/`**: Contains your main program files.
 - **`Solution/`**: Contains your solution and project files.
