@@ -4,13 +4,13 @@
 
 ## 📜 Indhold
 
-1. [📖 Introduktion](#introduktion)
-2. [🚀 Sådan kører du programmet](##sådan-kører-du-programmet)
-3. [🧩 Metoder](#metoder)
-   - [🔄 Genstart Programmet](##-genstart-programmet)
-   - [📂 LoadQuizFromFile](##-LoadQuizFromFile)
-   - [❓ RunQuiz](##-runquiz)
-   - [🗒️ ShowMenu](##-showmenu)
+1. 📖 Introduktion
+2. 🚀 Sådan kører du programmet
+3. 🧩 Metoder
+   - 🔄 Genstart Programmet
+   - 📂 LoadQuizFromFile
+   - ❓ RunQuiz
+   - 🗒️ ShowMenu
 
 ## 📝 Introduktion
 
