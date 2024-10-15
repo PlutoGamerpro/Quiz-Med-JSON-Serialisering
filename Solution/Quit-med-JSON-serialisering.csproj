@@ -13,9 +13,12 @@
   <ItemGroup>
   <Compile Include="..\Program\Program.cs" />
   <Compile Include="..\Models\QuizQuestion.cs" />
-
   </ItemGroup>
-
+ <ItemGroup>
+     <None Include="..\data\quizzes\SQL_quiz.json" />
+     <None Include="..\data\quizzes\Vand_quiz.json" />
+     <None Include="..\data\quizzes\programmering_quiz.json" />
+  </ItemGroup>
 
   <ItemGroup>
     <PackageReference Include="EntityFramework" Version="6.2.0" />
