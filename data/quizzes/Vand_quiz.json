@@ -1,0 +1,98 @@
+{
+  "Questions": [
+    {
+      "Question": "Hvor meget vand bruger den gennemsnitlige dansker om dagen?",
+      "AnswerOptions": [
+        "105 liter",
+        "505 liter",
+        "55 liter" ],
+        "CorrectAnswer": 0,
+         "CorrectAnswerMessage": [ "I gennemsnitligt bruger hver dansker 105 liter vand om dagen. Forbruget er faldet de senere år. For 20 år siden",
+                                   "brugte hver dansker i gennemsnit cirka 200 liter vand i døgnet, viser data fra brancheorganisationen Danva.",
+                                   "(Foto: Liselotte Sabroe/Ritzau ScanPix)"
+      ]
+    },
+     {
+      "Question": "Hvor gammelt er vandet, vi tapper fra hanen?",
+      "AnswerOptions": [
+        "1 år",
+        "20 år",
+        "10 år" ],
+        "CorrectAnswer": 1,
+         "CorrectAnswerMessage": [ "Vores drikkevand er produceret fra grundvand. Det tager mange år, før regnvand er sivet ned til grundvandet",
+                                  "og bliver hentet op igen for at blive til drikkevand. Typisk er det ifølge Danmarks Naturfredningsforeing 20 år",
+                                  "Typisk er det ifølge Danmarks Naturfredningsforeing 20 år, hvilken betyder, at vandet i hanen faktisk faldt ned som",
+                                   "regn for 20 år siden"
+     ]
+     },
+     {
+
+ "Question": "Hvor mange liter vand bruger vi typisk på et brusebad på 5 minutter?",
+      "AnswerOptions": [
+        "Mellem 50 og 100 liter",
+        "Mellem 5 og 10 liter",
+        "Mellem 10 og 20 liter" ],
+        "CorrectAnswer": 0,
+         "CorrectAnswerMessage": [ "Bolius skriver, at vi typisk bruger mellem 10 og 20 liter vand i minutter under bruseren. Det betyder at et",
+                                 "fem minutters bad kan blive til 100 liter vand. Man kan reducere vandmængderne vil at installere en sparebruser",
+                                 "eller en vandbegrænser på boligens vandhaner. Det er beddre med brusebad end karbad. Et karbad bruger omkring",
+                                 "180 liter vand. (foto: Kristian Djurhuus/Ritzau Scanpix)"
+      ]
+     },
+     {
+     "Question": "Hvor meget vand løber ud af haveslagen på et minut?",
+     "AnswerOptions": [
+       "1 liter",
+       "5 liter",
+       "12 liter" ],
+       "CorrectAnswer": 2,
+        "CorrectAnswerMessage": [ "Haveslagen bruger 12 liter vand pr. minut. Undgå så vidt muligt vanding om dagen, fordi vandet",
+                                  "fordamper, før det når ned til planterne rødder. Det er bedre at vamde om aften, når solen ikke",
+                                  "er fremme. (Henning Bagger/Ritzau Scanpix)"
+     ]
+     },
+     {
+      "Question": "Hvor bruger mest vand i hjemmet?",
+      "AnswerOptions": [
+        "Tøjvask",
+        "Bad og hygiejne",
+        "Toiletskyl" ],
+        "CorrectAnswer": 1,
+         "CorrectAnswerMessage": [ "Størstedelen af vandet bruger vi til bad og personlig hygiejne. Her kan du se de tre mest vandslugende",
+         "aktiviteter i hjemmet",
+          "                   ",
+         "bad og hygiejne (36 %)",
+         "toilet (27 %)",
+         "tøjvask (13 %)",
+         "opvask og rengøring (10 %)",
+         "drikkevand og madlaving (7 %)",
+         "øvrigt (7 %)",
+         "                   ",
+         "Kilde: Vandetsvej.dk (Foto: Henning Bagger/Ritzau ScanPix)"
+            ]
+      },
+      {
+      "Question": "Hvor meget vand indeholder de store havepools?",
+      "AnswerOptions": [
+        "40.000-50.000 liter",
+        "5.000-10.000 liter",
+        "60-120 liter" ],
+        "CorrectAnswer": 0,
+         "CorrectAnswerMessage": [ "Store havepools bruger rigtig meget vand. Der findes bassiner med en kapacitet på mellem 40.000 og 50.000",
+                                   "liter. De største bassiner bruger ifølge Bolius lige så meget vand, som en enkelt dansker bruger på et halvt",
+                                   "år. Man sparer derfor på vandet ved at bruge et mindre badebassin eller helt flytte badeturen til stranden eller",
+                                   "havnebassinet. (Foto Keld Navntoft/Ritzau Scanpix)"
+               ]
+          }
+      
+
+    ]
+    }
+  
+
+    
+  
+
+
+
+  
