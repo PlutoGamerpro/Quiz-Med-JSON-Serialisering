@@ -63,9 +63,9 @@ namespace Quit_med_JSON_serialisering
 
         private static void LoadQuiz_UserPreference()
         {
-            string jsonFilePath_Vand = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "Vand_quiz.json");
-            string jsonFilePath_Programmering = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "programmering_quiz.json");
-            string jsonFilePath_SQL = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "SQL_quiz.json");
+            string jsonFilePath_Vand = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "Vand_quiz.json");
+            string jsonFilePath_Programmering = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "programmering_quiz.json");
+            string jsonFilePath_SQL = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "data", "SQL_quiz.json");
 
             Quiz quiz_Vand = LoadQuizFromFile(jsonFilePath_Vand);
             Quiz quiz_Programmering = LoadQuizFromFile(jsonFilePath_Programmering);
