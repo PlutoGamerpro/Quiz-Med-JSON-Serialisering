@@ -115,6 +115,59 @@ private static void ShowMenu()
 
 
 ```
+## 🎲 JSON Structure & Quiz Question Generation 
+This project uses JSON files to store quiz questions and answers. Each quiz consists of multiple-choice questions, and here's a breakdown of the structure:
+
+### JSON Format 📄
+
+The JSON file has the following format:
+
+```json
+{
+  "Questions": [
+    {
+      "Question": "What is the correct SQL statement to retrieve data from a database?",
+      "AnswerOptions": [
+        "SELECT",
+        "GET",
+        "FETCH",
+        "EXTRACT"
+      ],
+      "CorrectAnswer": 0,
+      "CorrectAnswerMessage": [
+        "The correct SQL statement to retrieve data is 'SELECT'.",
+        "'SELECT' specifies which columns to return from a table."
+      ]
+    }
+  ]
+}
+```
+## Key Elements 🔑
+- ❓ Questions: An array of quiz questions.
+- 📝 Question: The text of the quiz question.
+- ✔️ AnswerOptions: An array of possible answers.
+- ✅ CorrectAnswer: An integer index indicating the correct answer from the AnswerOptions array (0-based index).
+- 📚 CorrectAnswerMessage: An optional array of messages providing additional information about the correct answer.
+
+## How Questions are Generated 🛠️
+- 📂 Loading the Quiz: The quiz is loaded from the specified JSON file using System.Text.Json.
+- 👀 Displaying Questions: Each question is displayed to the user, along with its answer options.
+- ✍️ User Input: The user can input their answer by either entering the option number or the text of the answer.
+- 🔍 Validation: The input is validated to ensure it matches one of the options.
+- 🎉 Feedback: After the user answers, feedback is provided, including whether the answer was correct and additional information from the CorrectAnswerMessage.
+
+## Example Question Flow 🏃‍♂️
+- 📊 User sees the question: "What is the correct SQL statement to retrieve data from a database?"
+### Answer Options
+1. 📄 SELECT
+2. 🔍 GET
+3. 📦 FETCH
+4. 🗑️ EXTRACT
+
+
+ - User inputs 1 (or types "SELECT"). 🆗
+ - The program checks if it's correct, provides feedback, and moves to the next question. 🔄
+
 ## 🙌 Tak for din tid!
 
 Jeg håber, du fandt denne gennemgang nyttig! Hvis du er interesseret i at se flere af mine projekter, kan du tjekke dem ud [here](https://github.com/PlutoGamerpro?tab=stars).
